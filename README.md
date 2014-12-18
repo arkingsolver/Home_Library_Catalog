@@ -11,6 +11,8 @@ In the example files "home_isbn.txt" is a list of ISBN numbers belonging to the 
 
 I made this for my own use and it is not polished.  OUTPUT scripts breaks without internet connection, and there is no error handling anywhere.
 
+YOU MADE TO EDIT LIB_CAT_OUTPUT.py AND ADD IN GOOGLE BOOKS API KEY WHERE NOTED IF YOUR ISBN LIST IS LONG
+
 <h3>File List</h3>
 
 <i>INPUTS</i>
